@@ -7,3 +7,5 @@ Time of concern and radius of concern can also be changed.
 Playing with different parameters provided would give different boid behaviour realtime.
 
 Demo video: https://youtu.be/WhCrEeRHLqs
+
+Credit : For UI controllers, I used an external library for Processing named controlP5
